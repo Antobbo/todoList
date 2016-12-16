@@ -1,0 +1,29 @@
+/*:host-context(h1){
+  text-align:center;
+}*/
+.toDo input{
+  border-radius: 4px 4px 4px 4px;
+  color: #555555;
+  display: inline-block;
+  font-size: 14px;
+  height: 26px;
+  /* line-height: 20px; */
+  margin-bottom: 0px;
+  padding: 4px 6px;
+  vertical-align: middle;
+  background-color: #FFFFFF;
+  border: 1px solid #CCCCCC;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+  transition: border 0.2s linear 0s, box-shadow 0.2s linear 0s;
+  width:100%;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+.wrapper{
+  width: 960px;
+  margin: 0 auto;
+  background-color: #EEEEEE;
+  padding:20px;
+}
+
